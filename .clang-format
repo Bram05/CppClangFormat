@@ -1,6 +1,6 @@
 ---
 Language:        Cpp
-AccessModifierOffset: -3
+AccessModifierOffset: -4
 AlignAfterOpenBracket: Align
 AlignConsecutiveAssignments: true
 AlignConsecutiveDeclarations: false
@@ -56,7 +56,7 @@ IncludeIsMainRegex: '(Test)?$'
 IndentCaseLabels: false
 
 IndentPPDirectives: BeforeHash
-IndentWidth:     3
+IndentWidth:     4
 IndentWrappedFunctionNames: true
 
 
