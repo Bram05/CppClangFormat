@@ -34,7 +34,6 @@ CompactNamespaces: false
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 ConstructorInitializerIndentWidth: 4
 ContinuationIndentWidth: 4
-Cpp11BracedListStyle: true
 DerivePointerAlignment: false
 DisableFormat:   false
 
@@ -94,3 +93,7 @@ SpacesInSquareBrackets: false
 Standard:        C++11
 TabWidth:        4
 UseTab:          Always
+
+---
+Language: CSharp
+IndentWidth: 4
